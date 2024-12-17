@@ -85,7 +85,7 @@ def cuerpo() -> rx.Component:
             # Mensaje de éxito o error
             rx.text(
                 PageState.mensaje,  # Conecta al mensaje del estado
-                color=rx.cond(PageState.mensaje.contains("éxito"), "green", "red"),
+                color=rx.cond(PageState.mensaje.contains("éxito"), "#4feed0", "#ee5d66"),
                 size="3",
                 margin_top="10px",
             ),
