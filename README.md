@@ -32,7 +32,7 @@ Esta es una aplicación web que genera contraseñas seguras y aleatorias, incluy
 
 Puedes ver la demo de la aplicación en el siguiente enlace:
 
-[**Ver la aplicación**](https://genpass-web.reflex.run)
+[**Ver la aplicación**](https://genpass-web-red-wood.reflex.run/)
 
 
 ## Instalación
