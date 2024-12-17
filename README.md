@@ -23,6 +23,8 @@ Esta es una aplicación web que genera contraseñas seguras y aleatorias, incluy
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
  <img src=" https://img.shields.io/badge/python-FFE465?style=for-the-badge&logo=python&logoColor=white" />
+  <img src=" https://img.shields.io/badge/python-FFE465?style=for-the-badge&logo=python&logoColor=white" />
+
 
 ## Demo 
 
