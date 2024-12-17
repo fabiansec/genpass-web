@@ -19,6 +19,18 @@ Esta es una aplicación web que genera contraseñas seguras y aleatorias, incluy
 - **Tailwind CSS**: Framework CSS utilizado para crear una interfaz moderna y responsiva.
 - **HTML/CSS/JavaScript**: Tecnologías utilizadas para la parte frontend de la aplicación.
 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+ <img src=" https://img.shields.io/badge/python-FFE465?style=for-the-badge&logo=python&logoColor=white" />
+
+## Demo 
+
+Puedes ver la demo de la aplicación en el siguiente enlace:
+
+[**Ver la aplicación**](https://genpass-web.reflex.run)
+
+
 ## Instalación
 
 ### Requisitos previos
