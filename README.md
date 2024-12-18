@@ -34,6 +34,10 @@ Puedes ver la demo de la aplicación en el siguiente enlace:
 
 [**Ver la aplicación**](https://genpass-web-neon-ring.reflex.run/)
 
+## Especificación
+
+Uso la librería **Pyperclip** por lo que solo funciona esta opción en **local**
+
 
 ## Instalación
 
